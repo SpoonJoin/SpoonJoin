@@ -18,7 +18,7 @@ The project generates 200 unique bingo cards, controls predefined winning scenar
 
 A custom iOS keyboard for the Udmurt language with native-style layout, additional Udmurt characters, autocorrection and word suggestions.
 
-→ [U-keyboard](https://github.com/SpoonJoin/U-keyboard)
+→ [U-keyboard](https://github.com/SpoonJoin/udmurt_keyboard_ios)
 
 ## What I'm working on
 
