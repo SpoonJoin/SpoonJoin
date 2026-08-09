@@ -1,4 +1,4 @@
-# Hi, I'm Kirill 👋
+# Hi 👋
 
 I'm currently learning **data analytics** and building practical projects along the way.
 
@@ -12,13 +12,13 @@ A desktop application for automated music bingo generation.
 
 The project generates 200 unique bingo cards, controls predefined winning scenarios, simulates the entire game, validates the results and exports everything to Excel.
 
-→ [MusicLoto](https://github.com/USERNAME/music-loto)
+→ [MusicLoto](https://github.com/SpoonJoin/music-loto)
 
 ### ⌨️ U-keyboard
 
 A custom iOS keyboard for the Udmurt language with native-style layout, additional Udmurt characters, autocorrection and word suggestions.
 
-→ [U-keyboard](https://github.com/USERNAME/U-keyboard)
+→ [U-keyboard](https://github.com/SpoonJoin/U-keyboard)
 
 ## What I'm working on
 
