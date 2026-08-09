@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kirill 👋
 
-<!--
-**SpoonJoin/SpoonJoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **data analytics** and building practical projects along the way.
 
-Here are some ideas to get you started:
+My main focus is developing analytical and programming skills through real tasks rather than isolated exercises. I'm especially interested in automation, data processing and turning practical problems into working tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🎵 MusicLoto
+
+A desktop application for automated music bingo generation.
+
+The project generates 200 unique bingo cards, controls predefined winning scenarios, simulates the entire game, validates the results and exports everything to Excel.
+
+→ [MusicLoto](https://github.com/USERNAME/music-loto)
+
+### ⌨️ U-keyboard
+
+A custom iOS keyboard for the Udmurt language with native-style layout, additional Udmurt characters, autocorrection and word suggestions.
+
+→ [U-keyboard](https://github.com/USERNAME/U-keyboard)
+
+## What I'm working on
+
+* Learning data analytics
+* Improving my Python skills
+* Building portfolio projects around real problems
+* Learning how to design, test and validate software solutions
+
+## AI-assisted development
+
+Both of my current portfolio projects were built using an **AI-assisted development workflow**.
+
+I use AI as a tool for discussing architecture, exploring implementation options, reviewing code, debugging and iterating on solutions.
+
+The goal is not simply to generate code, but to understand how the system works, define the requirements, test the result and gradually become more independent in development.
+
+---
+
+Currently building my skills and portfolio one project at a time.
